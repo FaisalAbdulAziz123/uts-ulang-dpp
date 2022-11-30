@@ -1,6 +1,6 @@
 # uts-ulang-dpp
 Jawaban PG
-1. <br>
+1. E
 2.
 3.
 4.
